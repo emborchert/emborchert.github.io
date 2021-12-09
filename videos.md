@@ -1,5 +1,5 @@
 ### Stellar flyby simulations 
-The following videos depict one of the flyby simulations presented in *On the rise times in FU Orionis events* [(Borchert et al., 2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.tmpL.108B/abstract), presenting colunn density and temperature representations.
+The following videos depict one of the flyby simulations presented in *On the rise times in FU Orionis events* [(Borchert et al., 2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.tmpL.108B/abstract), showing temperature and column density evolutions.
 
 <figure>
       <a id="column_density_side">

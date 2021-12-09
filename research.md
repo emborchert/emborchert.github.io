@@ -13,15 +13,13 @@ Through the use of <span style="font-variant: small-caps;">Phantom</span> couple
 
 <figure>
     <video class="center" src="videos/FU_Orionis.mp4" width="480" controls autoplay loop playsinline muted >Sorry, your browser doesn't support embedded videos</video>
-    <figcaption>Publication trailer *On the rise times in FU Orionis events* (Borchert et al., 2021). More simulation videos can be found <a href="https://emborchert.github.io/videos">here</a>.
+    <figcaption>Publication trailer for <span style="font-variant: italic;">On the rise times in FU Orionis events</span> (Borchert et al., 2021). More simulation videos can be found <a href="https://emborchert.github.io/videos">here</a>.
     </figcaption>
 </figure>
 
-Flyby scenarios had previously been discounted due the long time it takes for disturbances in the disc to propagate to the main star. Our simulations find the fast rise time expected with FU Orinis events with the perturber going into outburst. This happens as it captures the material from the disc while passing through. The perturber going into outburst is in line with observations from FU Ori, where the lower mass star is the brighter source in the binary system.
+Flyby scenarios had previously been discounted due the long time it takes for disturbances in the disc to propagate to the main star. Our simulations find the fast rise time expected with FU Orinis events with the perturber going into outburst. This happens as the perturber captures the material from the disc while passing through. The perturber going into outburst is in line with observations from FU Ori, where the lower mass star is the brighter source in the binary system.
 <br>
 <br>
 
-### [Synthetic CO emission and the $X_{\rm CO}$ factor of young molecular clouds: a convergence study](https://ui.adsabs.harvard.edu/abs/2021arXiv210200778B/abstract)
-
-more to be added...
- 
+### [Synthetic CO emission and the *X*co factor of young molecular clouds: a convergence study](https://ui.adsabs.harvard.edu/abs/2021arXiv210200778B/abstract)
+We performed synthetic observations on data from the SILCC-Zoom ins ([SImulating the LifeCycle of molecular Clouds](https://ui.adsabs.harvard.edu/abs/2015MNRAS.454..238W/abstract), [Zoom-ins](https://ui.adsabs.harvard.edu/abs/2017MNRAS.472.4797S/abstract)) using the Monte Carlo radiative transfer code [<span style="font-variant: small-caps;">radmc-3d</span>](https://ui.adsabs.harvard.edu/abs/2012ascl.soft02015D/abstract) (available in this [repository](https://github.com/dullemond/radmc3d-2.0)). The zoom-ins had resolutions between 3.9 to 0.06 pc. With the synthetic emission maps we analysed the convergence of the CO emission and the *X*co factor, finding that both are not yet converged at the highest resolution of 0.06 pc. 
