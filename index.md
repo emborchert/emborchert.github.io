@@ -1,5 +1,5 @@
 <figure>
-  <img src="/images/new.png" style="width:70%">
+  <img src="/images/new.png" style="width:40%">
 </figure>
 
 
