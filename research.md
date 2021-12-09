@@ -1,5 +1,5 @@
 ## Research
-My main focus is on the coupling of live radiative transfer in Smoothed Particle Hydrodynamics (SPH) simulations. Previously I have also worked on 3D molecular clouds simulations, doing a convergence study on the $X_{\rm CO}$ factor and $N_{\rm CO}$.
+My main focus is on the coupling of live radiative transfer in Smoothed Particle Hydrodynamics (SPH) simulations. Previously I have also worked on 3D molecular clouds simulations, doing a convergence study on the *X*co factor and *N*co.
 
 ### Code development
 I am a contributor to the smoothed particle hydrodynamics and magnetohydrodynamics code [<span style="font-variant: small-caps;">Phantom</span>](https://ui.adsabs.harvard.edu/abs/2018PASA...35...31P/abstract) (publicly available via its [repository](https://github.com/danieljprice/phantom)) as well as the Monte Carlo radiative transfer code [<span style="font-variant: small-caps;">Mcfost</span>](https://ui.adsabs.harvard.edu/abs/2006A&A...459..797P) (now publicly available in the [repository](https://github.com/cpinte/mcfost)).
@@ -13,7 +13,7 @@ Through the use of <span style="font-variant: small-caps;">Phantom</span> couple
 
 <figure>
     <video class="center" src="videos/FU_Orionis.mp4" width="480" controls autoplay loop playsinline muted >Sorry, your browser doesn't support embedded videos</video>
-    <figcaption>Publication trailer (Borchert et al., 2021). More simulation videos can be found <a href="https://emborchert.github.io/videos">here</a>.
+    <figcaption>Publication trailer *On the rise times in FU Orionis events* (Borchert et al., 2021). More simulation videos can be found <a href="https://emborchert.github.io/videos">here</a>.
     </figcaption>
 </figure>
 
