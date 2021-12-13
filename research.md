@@ -1,5 +1,5 @@
 ## Research
-My main focus is on the coupling of live radiative transfer in Smoothed Particle Hydrodynamics (SPH) simulations. Previously I have also worked on 3D molecular clouds simulations, doing a convergence study on the *X*co factor and *N*co.
+My main focus is on the coupling of live radiative transfer in Smoothed Particle Hydrodynamics (SPH) simulations. Previously I have also worked on synthetic observations of 3D simulations of molecular clouds, doing a convergence study on the *X*co factor and *N*co.
 
 ### Code development
 I am a contributor to the smoothed particle hydrodynamics and magnetohydrodynamics code [<span style="font-variant: small-caps;">Phantom</span>](https://ui.adsabs.harvard.edu/abs/2018PASA...35...31P/abstract) (publicly available via its [repository](https://github.com/danieljprice/phantom)) as well as the Monte Carlo radiative transfer code [<span style="font-variant: small-caps;">Mcfost</span>](https://ui.adsabs.harvard.edu/abs/2006A&A...459..797P) (now publicly available in the [repository](https://github.com/cpinte/mcfost)).
@@ -7,17 +7,20 @@ I am a contributor to the smoothed particle hydrodynamics and magnetohydrodynami
 <br>
 
 ### [On the rise times in FU Orionis events](https://ui.adsabs.harvard.edu/abs/2021MNRAS.tmpL.108B/abstract)
-In 1936, an unremarkable star in the constellation of Orion, FU Ori, suddenly changed brightness by 6 magnitudes over the course of a year, remaining bright ever since. The phenomenon has since been observed in a number of outbursting young stars, which have been classed as FU Orionis. There has not been an explanation before as to the cause of this sudden outburst. 
+In 1936, an unremarkable star in the constellation of Orion, FU Ori, suddenly changed brightness by 6 magnitudes over the course of a year, remaining bright ever since. The phenomenon has since been observed in a number of outbursting young stars, which have been classed as FU Orionis objects. There has not been an explanation before as to the cause of this sudden outburst. 
 
-Through the use of <span style="font-variant: small-caps;">Phantom</span> coupled with <span style="font-variant: small-caps;">Mcfost</span>, we created stellar flyby simulations and discovered that a disc penetrating stellar flyby results in the fast rise in the mass accretion.
+Through the use of <span style="font-variant: small-caps;">Phantom</span> coupled with <span style="font-variant: small-caps;">Mcfost</span>, we created stellar flyby simulations and discovered that a disc penetrating stellar flyby results in the fast rise in the mass accretion rate.
 
 <figure>
     <video class="center" src="videos/FU_Orionis.mp4" width="480" controls autoplay loop playsinline muted >Sorry, your browser doesn't support embedded videos</video>
-    <figcaption>Publication trailer for <span style="font-variant: italic;">On the rise times in FU Orionis events</span> (Borchert et al., 2021). More simulation videos can be found <a href="https://emborchert.github.io/videos">here</a>.
+    <figcaption>Publication trailer for '<span style="font-variant: italic;">On the rise times in FU Orionis events</span>' (Borchert et al., 2021). More simulation videos can be found <a href="https://emborchert.github.io/videos">here</a>.
     </figcaption>
 </figure>
 
-Flyby scenarios had previously been discounted due the long time it takes for disturbances in the disc to propagate to the main star. Our simulations find the fast rise time expected with FU Orinis events with the perturber going into outburst. This happens as the perturber captures the material from the disc while passing through. The perturber going into outburst is in line with observations from FU Ori, where the lower mass star is the brighter source in the binary system.
+Flyby scenarios had previously been discounted due the long time it takes for disturbances in the disc to propagate to the main star. Our simulations find the fast rise time associated with FU Orionis events with the perturber going into outburst. This happens as the perturber captures the material from the disc while passing through. The perturber going into outburst is in line with observations from FU Ori, where the lower mass star is the brighter source in the binary system.
+<br>
+Links to related media articles:
+<https://www.monash.edu/science/news/current/astronomers-find-clue-to-solar-system-formation-through-well-known-star>
 <br>
 <br>
 
@@ -25,3 +28,8 @@ Flyby scenarios had previously been discounted due the long time it takes for di
 We performed synthetic observations on data from the SILCC-Zoom ins ([SImulating the LifeCycle of molecular Clouds](https://ui.adsabs.harvard.edu/abs/2015MNRAS.454..238W/abstract), [Zoom-ins](https://ui.adsabs.harvard.edu/abs/2017MNRAS.472.4797S/abstract)) using the Monte Carlo radiative transfer code [<span style="font-variant: small-caps;">radmc-3d</span>](https://ui.adsabs.harvard.edu/abs/2012ascl.soft02015D/abstract) (available in this [repository](https://github.com/dullemond/radmc3d-2.0)). The zoom-ins had resolutions between 3.9 to 0.06 pc. With the synthetic emission maps we analysed the convergence of the CO emission and the *X*co factor, finding that both are not yet converged at the highest resolution of 0.06 pc. Furthermore, we also found that the *X*co factor from the synthetic observations of the observable region is below the commonly assumed value for the Milky Way.
 
 
+<section id="footer">
+      <div class="container">
+            Copyright &copy; 2021 - Elisabeth Borchert
+      </div>
+</section> 

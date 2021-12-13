@@ -35,3 +35,9 @@ The following videos depict one of the flyby simulations presented in *On the ri
       </a>
       <figcaption>Face on column density zoomed in on the secondary of a stellar flyby with a periastron distance of 20 AU.</figcaption>
 </figure>
+
+<section id="footer">
+      <div class="container">
+            Copyright &copy; 2021 - Elisabeth Borchert
+      </div>
+</section>
