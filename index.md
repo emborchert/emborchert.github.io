@@ -7,3 +7,10 @@ Hi, I am a theoretical astrophysics PhD student in the [School of Physics & Astr
 
 
 
+<section id="footer">
+      <div class="container">
+            <ul class="copyright">
+                  <li>&copy; Elisabeth Borchert. Page template: <a href="https://github.com/pages-themes/slate">slate</a></li>
+            </ul>
+      </div>
+</section> 
