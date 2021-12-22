@@ -21,6 +21,7 @@ Flyby scenarios had previously been discounted due the long time it takes for di
 <br>
 <br>
 Links to related media articles:
+<br>
 [Monash press release](https://www.monash.edu/science/news/current/astronomers-find-clue-to-solar-system-formation-through-well-known-star) by Silvia Dropulich
 <br>
 [Syfy Wire article](https://www.syfy.com/syfy-wire/star-fu-ori-is-so-bright-because-of-a-cosmic-crash) by Elizabeth Rayne
