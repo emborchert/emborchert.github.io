@@ -19,8 +19,10 @@ Through the use of <span style="font-variant: small-caps;">Phantom</span> couple
 
 Flyby scenarios had previously been discounted due the long time it takes for disturbances in the disc to propagate to the main star. Our simulations find the fast rise time associated with FU Orionis events with the perturber going into outburst. This happens as the perturber captures the material from the disc while passing through. The perturber going into outburst is in line with observations from FU Ori, where the lower mass star is the brighter source in the binary system.
 <br>
+<br>
 Links to related media articles:
 [Monash press release](https://www.monash.edu/science/news/current/astronomers-find-clue-to-solar-system-formation-through-well-known-star) by Silvia Dropulich
+<br>
 [Syfy Wire article](https://www.syfy.com/syfy-wire/star-fu-ori-is-so-bright-because-of-a-cosmic-crash) by Elizabeth Rayne
 <br>
 <br>
