@@ -22,9 +22,13 @@ Flyby scenarios had previously been discounted due the long time it takes for di
 <br>
 Links to related media articles:
 <br>
-[Monash press release](https://www.monash.edu/science/news/current/astronomers-find-clue-to-solar-system-formation-through-well-known-star) by Silvia Dropulich
+Monash press release: [Astronomers find clue to solar system formation through well known star](https://www.monash.edu/science/news/current/astronomers-find-clue-to-solar-system-formation-through-well-known-star) by Silvia Dropulich
 <br>
-[Syfy Wire article](https://www.syfy.com/syfy-wire/star-fu-ori-is-so-bright-because-of-a-cosmic-crash) by Elizabeth Rayne
+Universetoday: [Astronomers see a star crash through the planetary disk of another star](https://www.universetoday.com/153706/astronomers-see-a-star-crash-through-the-planetary-disk-of-another-star/) by Evan Gough
+<br>
+Syfy Wire article: [Star Fu Ori is so bright because of a cosmic crash](https://www.syfy.com/syfy-wire/star-fu-ori-is-so-bright-because-of-a-cosmic-crash) by Elizabeth Rayne
+<br>
+Sciencenews article: [Two stars cosmic flare light FU Orionis](https://www.sciencenews.org/article/two-stars-cosmic-flare-light-fu-orionis) by [Ken Croswell](http://kencroswell.com/)
 <br>
 <br>
 
