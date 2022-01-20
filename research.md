@@ -38,6 +38,6 @@ We performed synthetic observations on data from the SILCC-Zoom ins ([SImulating
 
 <section id="footer">
       <div class="container">
-            Copyright &copy; 2021 - Elisabeth Borchert
+            Copyright &copy; 2022 - Elisabeth Borchert
       </div>
 </section> 
