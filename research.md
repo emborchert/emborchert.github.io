@@ -6,33 +6,33 @@ I am a contributor to the smoothed particle hydrodynamics and magnetohydrodynami
 <br>
 <br>
 
-### [On the rise times in FU Orionis events](https://ui.adsabs.harvard.edu/abs/2021MNRAS.tmpL.108B/abstract)
+### [On the rise times in FU Orionis events](https://ui.adsabs.harvard.edu/abs/2022MNRAS.510L..37B/abstract)
 In 1936, an unremarkable star in the constellation of Orion, FU Ori, suddenly changed brightness by 6 magnitudes over the course of a year, remaining bright ever since. The phenomenon has since been observed in a number of outbursting young stars, which have been classed as FU Orionis objects. There has not been an explanation before as to the cause of this sudden outburst. 
 
 Through the use of <span style="font-variant: small-caps;">Phantom</span> coupled with <span style="font-variant: small-caps;">Mcfost</span>, we created stellar flyby simulations and discovered that a disc penetrating stellar flyby results in the fast rise in the mass accretion rate.
 
 <figure>
     <video class="center" src="videos/FU_Orionis.mp4" width="480" controls autoplay loop playsinline muted >Sorry, your browser doesn't support embedded videos</video>
-    <figcaption>Publication trailer for '<span style="font-variant: italic;">On the rise times in FU Orionis events</span>' (Borchert et al., 2021). More simulation videos can be found <a href="https://emborchert.github.io/videos">here</a>.
+    <figcaption>Publication trailer for '<span style="font-variant: italic;">On the rise times in FU Orionis events</span>' (Borchert et al., 2022). More simulation videos can be found <a href="https://emborchert.github.io/videos">here</a>.
     </figcaption>
 </figure>
 
-Flyby scenarios had previously been discounted due the long time it takes for disturbances in the disc to propagate to the main star. Our simulations find the fast rise time associated with FU Orionis events with the perturber going into outburst. This happens as the perturber captures the material from the disc while passing through. The perturber going into outburst is in line with observations from FU Ori, where the lower mass star is the brighter source in the binary system.
+Flyby scenarios had previously been discounted due to the long time it takes for disturbances in the disc to propagate to the main star. Our simulations find the fast rise time associated with FU Orionis events with the perturber going into outburst. This happens as the perturber captures the material from the disc while passing through. The perturber going into outburst is in line with observations from FU Ori, where the lower mass star is the brighter source in the binary star system.
 <br>
 <br>
 Links to related media articles:
 <br>
-Monash press release: [Astronomers find clue to solar system formation through well known star](https://www.monash.edu/science/news/current/astronomers-find-clue-to-solar-system-formation-through-well-known-star) by Silvia Dropulich
+Monash press release: [Astronomers find clue to solar system formation through well-known star](https://www.monash.edu/science/news/current/astronomers-find-clue-to-solar-system-formation-through-well-known-star) by Silvia Dropulich
 <br>
 Universetoday: [Astronomers see a star crash through the planetary disk of another star](https://www.universetoday.com/153706/astronomers-see-a-star-crash-through-the-planetary-disk-of-another-star/) by Evan Gough
 <br>
-Syfy Wire article: [Star Fu Ori is so bright because of a cosmic crash](https://www.syfy.com/syfy-wire/star-fu-ori-is-so-bright-because-of-a-cosmic-crash) by Elizabeth Rayne
+Syfy Wire article: [Star trespassing on another star's territory might tell us what happened in the early solar system](https://www.syfy.com/syfy-wire/star-fu-ori-is-so-bright-because-of-a-cosmic-crash) by Elizabeth Rayne
 <br>
-Sciencenews article: [Two stars cosmic flare light FU Orionis](https://www.sciencenews.org/article/two-stars-cosmic-flare-light-fu-orionis) by [Ken Croswell](http://kencroswell.com/)
+Sciencenews article: [Two stars' close encounter may explain a cosmic flare that has barely faded](https://www.sciencenews.org/article/two-stars-cosmic-flare-light-fu-orionis) by [Ken Croswell](http://kencroswell.com/)
 <br>
 <br>
 
-### [Synthetic CO emission and the *X*co factor of young molecular clouds: a convergence study](https://ui.adsabs.harvard.edu/abs/2021arXiv210200778B/abstract)
+### [Synthetic CO emission and the *X*co factor of young molecular clouds: a convergence study](https://ui.adsabs.harvard.edu/abs/2022MNRAS.510..753B/abstract)
 We performed synthetic observations on data from the SILCC-Zoom ins ([SImulating the LifeCycle of molecular Clouds](https://ui.adsabs.harvard.edu/abs/2015MNRAS.454..238W/abstract), [Zoom-ins](https://ui.adsabs.harvard.edu/abs/2017MNRAS.472.4797S/abstract)) using the Monte Carlo radiative transfer code [<span style="font-variant: small-caps;">radmc-3d</span>](https://ui.adsabs.harvard.edu/abs/2012ascl.soft02015D/abstract) (available in this [repository](https://github.com/dullemond/radmc3d-2.0)). The zoom-ins had resolutions between 3.9 to 0.06 pc. With the synthetic emission maps we analysed the convergence of the CO emission and the *X*co factor, finding that both are not yet converged at the highest resolution of 0.06 pc. Furthermore, we also found that the *X*co factor from the synthetic observations of the observable region is below the commonly assumed value for the Milky Way.
 
 
