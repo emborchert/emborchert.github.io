@@ -11,14 +11,12 @@ In 1936, an unremarkable star in the constellation of Orion, FU Ori, suddenly ch
 
 Through the use of <span style="font-variant: small-caps;">Phantom</span> coupled with <span style="font-variant: small-caps;">Mcfost</span>, we created stellar flyby simulations and discovered that a disc penetrating stellar flyby results in the fast rise in the mass accretion rate.
 
-<span>
-      <center>
-      <figure>
-            <video class="center" src="videos/FU_Orionis.mp4" width="480" controls autoplay loop playsinline muted >Sorry, your browser doesn't support embedded videos</video>
-            <figcaption>Publication trailer for '<span style="font-variant: italic;">On the rise times in FU Orionis events</span>' (Borchert et al., 2022). More simulation videos can be found <a href="https://emborchert.github.io/videos">here</a>.
-            </figcaption>
-      </figure>
-</span>
+<center>
+<figure>
+      <video class="center" src="videos/FU_Orionis.mp4" width="480" controls autoplay loop playsinline muted >Sorry, your browser doesn't support embedded videos</video>
+      <figcaption>Publication trailer for '<span style="font-variant: italic;">On the rise times in FU Orionis events</span>' (Borchert et al., 2022). More simulation videos can be found <a href="https://emborchert.github.io/videos">here</a>.
+      </figcaption>
+</figure>
 
 Flyby scenarios had previously been discounted due to the long time it takes for disturbances in the disc to propagate to the main star. Our simulations find the fast rise time associated with FU Orionis events with the perturber going into outburst. This happens as the perturber captures the material from the disc while passing through. The perturber going into outburst is in line with observations from FU Ori, where the lower mass star is the brighter source in the binary star system.
 <br>
