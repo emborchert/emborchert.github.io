@@ -1,5 +1,9 @@
 ## Publication list
-
+[Sustained FU Orionis-type outbursts from colliding discs in stellar flybys](https://ui.adsabs.harvard.edu/abs/2022MNRAS.517.4436B/abstract)
+<br /> <u>Borchert, E. M. A.</u> ; Price, D. J. ; Pinte, C. ; Cuello, N.
+<br /> Published 12/2022 in MNRAS
+<br>
+<br>
 [On the rise times in FU Orionis events](https://ui.adsabs.harvard.edu/abs/2022MNRAS.510L..37B/abstract)
 <br /> <u>Borchert, E. M. A.</u> ; Price, D. J. ; Pinte, C. ; Cuello, N.
 <br /> Published 02/2022 in MNRAS Letters
