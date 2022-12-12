@@ -11,7 +11,6 @@ In 1936, an unremarkable star in the constellation of Orion, FU Ori, suddenly ch
 
 Through the use of <span style="font-variant: small-caps;">Phantom</span> coupled with <span style="font-variant: small-caps;">Mcfost</span>, we created stellar flyby simulations and discovered that a disc penetrating stellar flyby results in the fast rise in the mass accretion rate.
 
-<center>
 <figure>
       <video class="center" src="videos/FU_Orionis.mp4" width="480" controls autoplay loop playsinline muted >Sorry, your browser doesn't support embedded videos</video>
       <figcaption>Publication trailer for '<span style="font-variant: italic;">On the rise times in FU Orionis events</span>' (Borchert et al., 2022). More simulation videos can be found <a href="https://emborchert.github.io/videos">here</a>.
