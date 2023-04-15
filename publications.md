@@ -39,7 +39,7 @@
       <figcaption>Poster ad, turn on sound for the full effect.</figcaption>
 </figure>
 <figure>
-	<img src="/documents/ASM_2022_poster.png" style="width:40%">
+	<img src="/documents/ASM_2022_poster.png" style="width:100%">
 	<figcaption>Poster</figcaption>
 </figure>
 <br>
