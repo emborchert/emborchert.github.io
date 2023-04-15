@@ -35,7 +35,7 @@
 ### ASA ASM 2022 - Hobart (poster and poster ad):
 <br> 3rd place for best student poster, 3rd place for best poster ad/video.
 <figure>
-      <video class="center" src="videos/ASM2022_poster_ad.mp4" width="480" controls autoplay loop playsinline muted >Sorry, your browser doesn't support embedded videos</video>
+      <video class="center" src="videos/ASM2022_poster_ad.mp4" width="100%" controls autoplay loop playsinline muted >Sorry, your browser doesn't support embedded videos</video>
       <figcaption>Poster ad, turn on sound for the full effect.</figcaption>
 </figure>
 <figure>
@@ -45,5 +45,5 @@
 <br>
 
 ### Anita workshop 2022 - online (student talk):
-{% include youtube.html id="IjrOcJa-ZnA&t=770s" %}
+{% include youtube.html id="IjrOcJa-ZnA" %}
 
